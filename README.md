@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Power BI, Python, SQL and Dataiku**
 
-- 📫 How to reach me **elouamou@gmail.com**
+- 📫 How to reach me **elouamou.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

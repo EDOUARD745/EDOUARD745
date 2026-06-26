@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Dataiku**
 
-- 👨‍💻 All of my projects are available at [elouamou.pro](elouamou.pro)
-
 - 💬 Ask me about **Power BI, Python, SQL and Dataiku**
 
 - 📫 How to reach me **www.elouamou.pro*

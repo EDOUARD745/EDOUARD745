@@ -25,7 +25,7 @@
 
 <br/>
 
-## 🧭 À propos
+## À propos
 
 ```python
 edouard = {
@@ -36,7 +36,7 @@ edouard = {
     "certifie"    : ["Microsoft PL-300", "Dataiku Core & Advanced", "Talend"],
     "co_fondateur": "Workless (Callizy · SportConnectGN · Expedys)",
     "mantra"      : "Je transforme la donnée en décisions.",
-    "objectif"    : "Trouver mon premier CDI en Data / BI 🚀",
+    "objectif"    : "Trouver mon premier CDI en Data / BI ",
 }
 ```
 
@@ -47,7 +47,7 @@ edouard = {
 
 <br/>
 
-## 🛠️ Stack technique
+## Stack technique
 
 **Business Intelligence & Data Viz**
 
@@ -80,7 +80,7 @@ edouard = {
 
 <br/>
 
-## 📊 GitHub en chiffres
+## GitHub en chiffres
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EDOUARD745&show_icons=true&theme=tokyonight&hide_border=true&title_color=F97316&icon_color=F97316&bg_color=0C0C0C&text_color=D7E2EA&include_all_commits=true&count_private=true" alt="stats"/>
@@ -97,19 +97,8 @@ edouard = {
 
 <br/>
 
-## 🚀 Projets phares
 
-| Projet | Domaine | Lien |
-|--------|---------|------|
-| **Callizy** — plateforme téléphonique à agents IA | VoIP · IA générative | [callizy.ca](https://callizy.ca/fr) |
-| **Expedys** — envoi de colis vers l'Afrique | Logistique · Mobile | [expedys.com](https://www.expedys.com/fr) |
-| **Mobile Money & Inclusion Financière** — XGBoost, SHAP, Power BI | Machine Learning | [repo](https://github.com/EDOUARD745/mobile-money-africa) |
-| **ARIA Exam Simulator** — examens augmentés par l'IA | AI · EdTech | [repo](https://github.com/EDOUARD745/ARIA-Hackaton) |
-| **Simulateur d'investissement passif** — DCA vs Lump Sum | Data Science | [repo](https://github.com/EDOUARD745/Simulateur-d-investissement-passif) |
-
-<br/>
-
-## 🐍 Mes contributions
+## Mes contributions
 
 <!--
   Le "snake" est généré par une GitHub Action (voir instructions plus bas).
@@ -121,7 +110,7 @@ edouard = {
 
 <br/>
 
-## 🤝 Me retrouver
+## Me retrouver
 
 <p align="center">
   <a href="https://www.linkedin.com/in/edouardlouamou/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>

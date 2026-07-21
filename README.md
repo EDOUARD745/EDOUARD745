@@ -34,7 +34,6 @@ edouard = {
     "formation"   : "Master MIAGE - Business Intelligence (Paris-Saclay)",
     "en_cours"    : "MSc AI for Business - Aivancity",
     "certifie"    : ["Microsoft PL-300", "Dataiku Core & Advanced", "Talend"],
-    "co_fondateur": "Workless (Callizy · SportConnectGN · Expedys)",
     "mantra"      : "Je transforme la donnée en décisions.",
     "objectif"    : "Trouver mon premier CDI en Data / BI ",
 }

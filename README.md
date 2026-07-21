@@ -35,7 +35,6 @@ edouard = {
     "en_cours"    : "MSc AI for Business - Aivancity",
     "certifie"    : ["Microsoft PL-300", "Dataiku Core & Advanced", "Talend"],
     "mantra"      : "Je transforme la donnée en décisions.",
-    "objectif"    : "Trouver mon premier CDI en Data / BI ",
 }
 ```
 

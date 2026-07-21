@@ -12,7 +12,7 @@
 <!-- ===================== TYPING SQL VIVANTE ===================== -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=720&lines=SELECT+*+FROM+edouard+WHERE+poste+%3D+'data_analyst'%3B;poste++++++++++%3D+Business+Data+Analyst+%40+La+Poste;formation+++++%3D+Master+MIAGE+BI+%C2%B7+Paris-Saclay;certifications%3D+PL-300+%C2%B7+Dataiku+Core+%26+Advanced;stack+++++++++%3D+Power+BI+%C2%B7+SQL+%C2%B7+Python+%C2%B7+Dataiku;statut++++++++%3D+%F0%9F%9F%A2+DISPONIBLE+POUR+UN+CDI" alt="typing SQL" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=720&lines=SELECT+*+FROM+edouard+WHERE+poste+%3D+'data_analyst'%3B;poste++++++++++%3D+Business+Data+Analyst+%40+;formation+++++%3D+Master+MIAGE+BI+%C2%B7+Paris-Saclay;certifications%3D+PL-300+%C2%B7+Dataiku+Core+%26+Advanced;stack+++++++++%3D+Power+BI+%C2%B7+SQL+%C2%B7+Python+%C2%B7+Dataiku;statut++++++++%3D+%F0%9F%9F%A2+DISPONIBLE+POUR+UN+CDI" alt="typing SQL" />
   </a>
 </p>
 

@@ -82,20 +82,7 @@ edouard = {
 
 ## GitHub en chiffres
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EDOUARD745&show_icons=true&theme=tokyonight&hide_border=true&title_color=F97316&icon_color=F97316&bg_color=0C0C0C&text_color=D7E2EA&include_all_commits=true&count_private=true" alt="stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDOUARD745&layout=compact&theme=tokyonight&hide_border=true&title_color=F97316&bg_color=0C0C0C&text_color=D7E2EA&langs_count=8" alt="top langs"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EDOUARD745&theme=tokyonight&hide_border=true&background=0C0C0C&stroke=F97316&ring=F97316&fire=F97316&currStreakLabel=F97316" alt="streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EDOUARD745&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies"/>
-</p>
-
-<br/>
+<p align="center"> <img height="165em" src="https://github-readme-stats.vercel.app/api?username=EDOUARD745&show_icons=true&theme=tokyonight&hide_border=true&title_color=F97316&icon_color=F97316&bg_color=0C0C0C&text_color=D7E2EA&include_all_commits=true&count_private=true&cache_seconds=1800" alt="stats"/> <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDOUARD745&layout=compact&theme=tokyonight&hide_border=true&title_color=F97316&bg_color=0C0C0C&text_color=D7E2EA&langs_count=8&cache_seconds=1800" alt="top langs"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=EDOUARD745&theme=tokyonight&hide_border=true&background=0C0C0C&stroke=F97316&ring=F97316&fire=F97316&currStreakLabel=F97316" alt="streak"/> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=EDOUARD745&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies"/> </p> <br/>
 
 
 ## Mes contributions

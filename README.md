@@ -89,10 +89,6 @@ edouard = {
   <img src="https://streak-stats.demolab.com/?user=EDOUARD745&theme=tokyonight&hide_border=true&background=0C0C0C&stroke=F97316&ring=F97316&fire=F97316&currStreakLabel=F97316" alt="streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EDOUARD745&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies"/>
-</p>
-
 <br/>
 
 

@@ -38,10 +38,10 @@ edouard = {
 }
 ```
 
-- 🔭 **En ce moment** — Analyses avancées & Machine Learning chez **La Poste Groupe**
-- 🌱 **J'apprends** — l'IA appliquée au business (Deep Learning, NLP, déploiement)
-- 💬 **Parlez-moi de** — **Power BI**, **SQL**, **Python**, **Dataiku**, **BI & Data Engineering**
-- 📫 **Me joindre** — [app.elouamou.pro](https://app.elouamou.pro) · elouamou@gmail.com
+- 🔭 **En ce moment** - Analyses avancées & Machine Learning chez **La Poste Groupe**
+- 🌱 **J'apprends** - l'IA appliquée au business (Deep Learning, NLP, déploiement)
+- 💬 **Parlez-moi de** - **Power BI**, **SQL**, **Python**, **Dataiku**, **BI & Data Engineering**
+- 📫 **Me joindre** - [app.elouamou.pro](https://app.elouamou.pro) · elouamou@gmail.com
 
 <br/>
 
